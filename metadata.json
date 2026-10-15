@@ -1,0 +1,8 @@
+{
+  "name": "placement offers",
+  "description": "HireReady AI – Intelligent Job Matching and Student Placement Management System connecting students, recruiters, and placement officers with AI career acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
